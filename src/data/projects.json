@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Coffee Shop",
+    "imageSrc": "projects/coffeeshop.png",
+    "description": "Ordering, product, ingredient, and promotion management, revenue and account management for business.",
+    "skills": ["React", "Net"],
+    "demo": "https://www.youtube.com/watch?v=wwGPxkjC4FI&t=40s&ab_channel=H%C3%B2aThu",
+    "source": "https://github.com/LeThinhPhuc/Coffee_Management"
+  },
+  {
+    "title": "Bodyguard Services",
+    "imageSrc": "projects/bodyguard.jpeg",
+    "description": "Bodyguard rental services in the US, featuring multiple roles such as customer, admin, and manager for seamless service booking and management.",
+    "skills": ["React", "Spring Boot"],
+    "demo": "https://drive.google.com/drive/folders/1Yt4eFapzW5uXp6_9c4-ZD7YDuwx37NsX?hl=vi",
+    "source": "https://github.com/MockProject072024nhom6/MockProject_072024_Nhom6"
+  },
+  {
+    "title": "Test Application",
+    "imageSrc": "projects/testapp.png",
+    "description": "Students can select and take exams, Teachers can manage classes, students, create exams, and analyze class performance across multiple exams.",
+    "skills": ["React", "Spring Boot"],
+    "demo": "https://docs.google.com/document/d/1zXRcnoHFYYg-y45c1szTXrblcN4M2SPXpV8t4uOGzgU/edit",
+    "source": "https://github.com/LeThinhPhuc/Test_Application"
+  }
+]

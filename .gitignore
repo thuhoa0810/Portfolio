@@ -1,0 +1,15 @@
+# Bỏ qua node_modules (thư mục chứa các dependency của npm/yarn)
+node_modules/
+
+# Bỏ qua thư mục build (thư mục chứa các file build sau khi build dự án)
+build/
+
+# Bỏ qua thư mục dist (thường được dùng để chứa các file build trong các project khác)
+dist/
+
+# Bỏ qua các file lock của npm và yarn
+package-lock.json
+yarn.lock
+
+# Bỏ qua các file log
+*.log

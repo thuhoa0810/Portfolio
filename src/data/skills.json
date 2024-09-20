@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Blazor",
+    "imageSrc": "skills/blazor.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Net",
+    "imageSrc": "skills/net.png"
+  },
+  {
+    "title": "SQL Server",
+    "imageSrc": "skills/mssqlserver.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
